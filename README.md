@@ -1,4 +1,4 @@
-# Caio Scura
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=Hello%2C+I'm+Caio+Scura" alt="Typing SVG" /></a>
 
 **`Desenvolvedor FullStack`**
 
