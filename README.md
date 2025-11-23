@@ -1,12 +1,13 @@
 <div align="center" width="100%">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&width=435&lines=Welcome+to+my+GitHub+!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+!" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Caio Scura, tenho 24 anos e sou do interior de SP. tenho um curso técnico em Desenvolvimento de Sistemas, e concluí o curso de Análise e Desenvolvimento de Sistemas na Fatec Itapetininga.
+Olá, eu sou Caio Scura<br><br>
+Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e possui um curso técnico em Desenvolvimento de Sistemas. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, porém já desenvolvi e tenho bastante experiência no back-end. Minhas principais tecnologias são Bootstrap, CSS e JavaScript. Sigo estudando constantemente e aprimorando meus conhecimentos.
 
 <p align="left">
     <a href="https://github.com/CaioScura?tab=repositories&sort=stargazers">
@@ -34,7 +35,7 @@ Me chamo Caio Scura, tenho 24 anos e sou do interior de SP. tenho um curso técn
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Stack
 
 <img 
     align="left" 
@@ -136,7 +137,7 @@ Me chamo Caio Scura, tenho 24 anos e sou do interior de SP. tenho um curso técn
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <p>
   <img 
