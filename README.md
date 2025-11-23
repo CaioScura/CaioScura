@@ -2,6 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+!" alt="Typing SVG" /></a>
 </div>
 
+
 ---
 
 **`Desenvolvedor FullStack`**
@@ -9,7 +10,7 @@
 <div>
     Olá, eu sou <b style="color:#70A5FD;">Caio Scura</b>
 </div>
-<br><br>
+<br>
 Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e possui um curso técnico em Desenvolvimento de Sistemas. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, porém já desenvolvi e tenho bastante experiência no back-end. Minhas principais tecnologias são Bootstrap, CSS e JavaScript. Sigo estudando constantemente e aprimorando meus conhecimentos.
 <br><br>
 
@@ -155,7 +156,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img 
       alt="GitHub Stats" 
-      height="200" 
+      height="220" 
       src="https://github-readme-stats.vercel.app/api?username=CaioScura&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
     <img 
