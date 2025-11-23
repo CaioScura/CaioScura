@@ -16,7 +16,7 @@ Me chamo Caio Scura, tenho 24 anos e sou do interior de SP. tenho um curso técn
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CaioScura?color=333&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/CaioScura?color=333&labelColor=333&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/caio-pereira-72785b1a2/">
