@@ -156,13 +156,13 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img 
       alt="GitHub Stats" 
-      height="220" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api?username=CaioScura&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
     <img 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioScura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioScura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
     />
   </div>
   <br>
