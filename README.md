@@ -1,14 +1,15 @@
 <div align="center" width="100%">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+!" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 **`Desenvolvedor FullStack`**
 
-<samp>
-    Olá, eu sou <b>Caio Scura</b>
-</samp><br><br>
+<div>
+    Olá, eu sou <b style="color:#70A5FD;">Caio Scura</b>
+</div>
+<br><br>
 Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e possui um curso técnico em Desenvolvimento de Sistemas. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, porém já desenvolvi e tenho bastante experiência no back-end. Minhas principais tecnologias são Bootstrap, CSS e JavaScript. Sigo estudando constantemente e aprimorando meus conhecimentos.
 <br><br>
 
@@ -149,20 +150,36 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
 
 ### 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CaioScura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
+<div align="center" width="100%">
+  <!-- Primeira linha com 2 imagens lado a lado -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=CaioScura&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioScura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </div>
+  <br>
+    
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioScura&theme=tokyonight" 
+    style="width: 100%; margin-top: 20px;" 
   />
+</div>
+
+
+
+
+
+
+
+  
 
 </p>
