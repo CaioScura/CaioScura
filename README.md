@@ -1,7 +1,7 @@
 <div align="center" width="100%">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+!" alt="Typing SVG" /></a>
 
-<img align="right" width="200px" src="https://private-user-images.githubusercontent.com/86533634/517868200-d296ac55-277c-4588-aef2-5a7688d6265f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM5MTcyNzksIm5iZiI6MTc2MzkxNjk3OSwicGF0aCI6Ii84NjUzMzYzNC81MTc4NjgyMDAtZDI5NmFjNTUtMjc3Yy00NTg4LWFlZjItNWE3Njg4ZDYyNjVmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIzVDE2NTYxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkOWYxZDU5ZjBiYTkyNDY2ZmY4MDM4ZjkxMGM4MzFmMGE1NzgzNTY3YTc3NGUxNGVjMjA5ODI5YjVhMjI4NzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.l5UgHjGDmATZI6lW1JneHBUG2pKPInU5bRqaCYfBzVA">
+<img align="right" width="200px" src="https://github.com/CaioScura/CaioScura/issues/2#issue-3656211213.gif">
     
 </div>
 
