@@ -6,15 +6,18 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, eu sou Caio Scura<br><br>
+<samp>
+    Olá, eu sou <b>Caio Scura</b>
+</samp><br><br>
 Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e possui um curso técnico em Desenvolvimento de Sistemas. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, porém já desenvolvi e tenho bastante experiência no back-end. Minhas principais tecnologias são Bootstrap, CSS e JavaScript. Sigo estudando constantemente e aprimorando meus conhecimentos.
+<br><br>
 
 <p align="left">
     <a href="https://github.com/CaioScura?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CaioScura?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/CaioScura?color=333&style=for-the-badge&labelColor=333&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/CaioScura?tab=followers">
@@ -25,12 +28,19 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
         />
     </a>
     <a href="https://www.linkedin.com/in/caio-pereira-72785b1a2/">
-    <img 
-        alt="LinkedIn" 
-        title="Meu LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-</a>
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/caio-pereira-72785b1a2/">
+        <img 
+            alt="Behance" 
+            title="Meu Behance" 
+            src="https://img.shields.io/badge/Behance-333?style=for-the-badge&logo=behance&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
