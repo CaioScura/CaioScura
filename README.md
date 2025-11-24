@@ -40,7 +40,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
             src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/caio-pereira-72785b1a2/">
+    <a href="https://www.behance.net/caioscura">
         <img 
             alt="Behance" 
             title="Meu Behance" 
