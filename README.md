@@ -111,7 +111,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
     title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
 <img 
