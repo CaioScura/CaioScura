@@ -18,7 +18,10 @@
 Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e possui um curso técnico em Desenvolvimento de Sistemas. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, porém já desenvolvi e tenho bastante experiência no back-end. Minhas principais tecnologias são React, TypeScript, JavaScript, CSS, Laravel e SpringBoot. Sigo estudando constantemente e aprimorando meus conhecimentos.
 <br><br>
 
-<a href="https://caio-scura-dev.vercel.app/"><b style="color:#70A5FD;">Meu Portifólio</b></a> 
+<a style="text-decoration: none;"
+    href="https://caio-scura-dev.vercel.app/">
+    <b style="color:#70A5FD;">Meu Portifólio</b>
+</a> 
 
 <p align="left">
     <a href="https://github.com/CaioScura?tab=repositories&sort=stargazers">
