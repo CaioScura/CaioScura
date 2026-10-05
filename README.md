@@ -15,8 +15,10 @@
     Olá, eu sou <b style="color:#70A5FD;">Caio Scura</b>
 </div>
 <br>
-Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e possui um curso técnico em Desenvolvimento de Sistemas. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, porém já desenvolvi e tenho bastante experiência no back-end. Minhas principais tecnologias são React, TypeScript, JavaScript, CSS, Laravel e SpringBoot Sigo estudando constantemente e aprimorando meus conhecimentos.
+Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e possui um curso técnico em Desenvolvimento de Sistemas. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, porém já desenvolvi e tenho bastante experiência no back-end. Minhas principais tecnologias são React, TypeScript, JavaScript, CSS, Laravel e SpringBoot. Sigo estudando constantemente e aprimorando meus conhecimentos.
 <br><br>
+
+Meu Portifólio: https://caio-scura-dev.vercel.app/
 
 <p align="left">
     <a href="https://github.com/CaioScura?tab=repositories&sort=stargazers">
@@ -59,7 +61,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
 <img 
@@ -68,7 +70,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 
 <img 
