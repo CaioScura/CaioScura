@@ -19,14 +19,17 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
 <br><br>
 
 <a href="https://caio-scura-dev.vercel.app/">
-  <img 
+  <img
     src="https://caio-scura-dev.vercel.app/assets/perfil-draw-DSeuie4b.png"
-    width="50"
-    height="50"
-    style="border-radius: 50%; vertical-align: middle;"
+    width="40"
+    height="40"
+    style="border-radius: 50%;"
   />
-  <strong>Meu Portfólio</strong>
+  <b style="color:#70A5FD;">Meu Portfólio</b>
 </a>
+
+
+<br><br>
 
 <p align="left">
     <a href="https://github.com/CaioScura?tab=repositories&sort=stargazers">
