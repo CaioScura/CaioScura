@@ -24,6 +24,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
     width="40"
     height="40"
     style="border-radius: 50%;"
+    align="absmiddle"
   />
   <b style="color:#70A5FD;">Meu Portfólio</b>
 </a>
