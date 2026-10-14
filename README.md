@@ -76,7 +76,7 @@ Sou um desenvolvedor Full-Stack/Engenheiro Front-End, formado em Análise e Dese
 
 ---
 
-### 🤖 Tech Stack
+### 💻 Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,angular,laravel,spring,java,python,postgresql,git,figma" />
@@ -192,6 +192,15 @@ Sou um desenvolvedor Full-Stack/Engenheiro Front-End, formado em Análise e Dese
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"     
 /> -->
+
+<br/>
+<br/>
+
+### 🌐 Idiomas
+
+* 🇧🇷 **Português:** Nativo
+* 🇺🇸 **Inglês:** Intermediário
+* 🇯🇵 **Japonês:** Iniciante(estudando)
 
 <br/>
 <br/>
