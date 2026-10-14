@@ -194,7 +194,9 @@ Sou um desenvolvedor Full-Stack/Engenheiro Front-End, formado em Análise e Dese
 /> -->
 
 <br/>
-<br/>
+
+---
+
 
 ### 🌐 Idiomas
 
@@ -203,7 +205,8 @@ Sou um desenvolvedor Full-Stack/Engenheiro Front-End, formado em Análise e Dese
 * 🇯🇵 **Japonês:** Iniciante(estudando)
 
 <br/>
-<br/>
+
+---
 
 ### 📊 GitHub Stats
 
