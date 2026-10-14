@@ -17,7 +17,15 @@ Sou um desenvolvedor Full-Stack/Engenheiro Front-End, formado em Análise e Dese
 
 <br><br>
 
-<img
+<a href="https://www.linkedin.com/in/caio-scura" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://caio-scura-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8b8cf5?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+  
+<!-- <img
   src="https://caio-scura-dev.vercel.app/assets/perfil-draw-DSeuie4b.png"
   width="50"
   height="50"
@@ -27,7 +35,7 @@ Sou um desenvolvedor Full-Stack/Engenheiro Front-End, formado em Análise e Dese
 &nbsp;
 <a href="https://caio-scura-dev.vercel.app/">
   <b>Meu Portfólio</b>
-</a>
+</a> -->
 
 
 <br>
