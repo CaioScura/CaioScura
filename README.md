@@ -9,8 +9,6 @@
 
 ---
 
-**`Desenvolvedor FullStack`**
-
 <div>
     Olá, eu sou <b style="color:#70A5FD;">Caio Scura</b>
 </div>
@@ -33,7 +31,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
 
 <br>
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/CaioScura?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -62,7 +60,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
             src="https://img.shields.io/badge/Behance-333?style=for-the-badge&logo=behance&logoColor=white"
         />
     </a>
-</p>
+</p> -->
 
 ---
 
@@ -106,15 +104,6 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -122,6 +111,14 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 
 
 <img 
@@ -144,21 +141,22 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"   
 />
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Git" 
