@@ -13,7 +13,8 @@
     Olá, eu sou <b style="color:#70A5FD;">Caio Scura</b>
 </div>
 <br>
-Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e possui um curso técnico em Desenvolvimento de Sistemas. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, porém já desenvolvi e tenho bastante experiência no back-end. Minhas principais tecnologias são React, TypeScript, JavaScript, CSS, Laravel e SpringBoot. Sigo estudando constantemente e aprimorando meus conhecimentos.
+Sou um desenvolvedor Full-Stack/Engenheiro Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e busco me aprofundar em Engenharia de Software. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, me interesso e tenho bastante experiência na construção de back-end. Minhas principais tecnologias são React, TypeScript, Angular, Laravel e SpringBoot. Sigo estudando constantemente e aprimorando meus conhecimentos.
+
 <br><br>
 
 <img
@@ -66,7 +67,12 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
 
 ### 🤖 Tech Stack
 
-<img 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,angular,laravel,spring,java,python,postgresql,git,figma" />
+    <br>
+</div>
+
+<!-- <img 
     align="left" 
     alt="React"
     title="React" 
@@ -174,7 +180,7 @@ Sou um desenvolvedor Front-End, formado em Análise e Desenvolvimento de Sistema
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"     
-/>
+/> -->
 
 <br/>
 <br/>
