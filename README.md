@@ -15,7 +15,7 @@
 <br>
 Sou um desenvolvedor Full-Stack/Engenheiro Front-End, formado em Análise e Desenvolvimento de Sistemas pela Fatec Itapetininga e busco me aprofundar em Engenharia de Software. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, me interesso e tenho bastante experiência na construção de back-end. Minhas principais tecnologias são React, TypeScript, Angular, Laravel e SpringBoot. Sigo estudando constantemente e aprimorando meus conhecimentos.
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/caio-scura" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
