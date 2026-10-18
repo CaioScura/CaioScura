@@ -226,18 +226,14 @@ Sou um <b>desenvolvedor Full-Stack/Engenheiro Front-End</b>, formado em Análise
   </div>
   <br>
     
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioScura&theme=tokyonight" 
-    style="width: 100%; margin-top: 20px;" 
-  />
+
 </div>
 
-<img src="https://github.com/CaioScura/CaioScura/blob/output/github-contribution-grid-snake.svg" alt="snake output" />
 
 
-
+<div align="center">
+    <img src="https://github.com/CaioScura/CaioScura/blob/output/github-contribution-grid-snake.svg" alt="snake output" />
+</div>
 
 
 
